@@ -16,7 +16,7 @@
 This project aims to explore and analyze SpaceX launch data to gain insights into factors influencing launch success and to develop predictive models. We utilize data visualization, SQL-based exploratory data analysis, interactive dashboards, and machine learning to create a comprehensive tool for understanding and forecasting launch outcomes. This project is presented in the form of a cohesive, modular codebase, combining several key data science practices and libraries.
 
 ## Data Sources
-The data for this project was gathered from the [SpaceX API](https://github.com/r-spacex/SpaceX-API) and includes detailed launch records such as:
+The data for this project was gathered from the SpaceX API and includes detailed launch records such as:
 - Launch sites, payloads, orbit types, and customer details
 - Booster types, launch outcomes, and booster landing outcomes
 
